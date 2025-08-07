@@ -142,7 +142,7 @@ export const sampleProducts: Product[] = [
     id: "18",
     name: "Samba Fresa",
     description: "Galleta de chocolate con sabor a fresa, deliciosas.",
-    price: 0.90,
+    price: 1.00,
     image: "https://grupoleiros.com/image/leiros/GUCM0946.png",
     category: "Galletas"
   },
@@ -150,7 +150,7 @@ export const sampleProducts: Product[] = [
     id: "19",
     name: "Flaquito Rojo",
     description: "Chocolate en barra con sabor clásico, presentación roja.",
-    price: 0.60,
+    price: 0.70,
     image: "https://www.idheastore.com/store/wp-content/uploads/Diseno-sin-titulo-96.png",
     category: "Chocolates"
   },
@@ -166,7 +166,7 @@ export const sampleProducts: Product[] = [
     id: "21",
     name: "Chao Menta",
     description: "Caramelos de menta refrescantes, ideales para después de comer.",
-    price: 0.02,
+    price: 0.03,
     image: "https://www.iberoexpress.es/wp-content/uploads/2019/03/caramelo_menta_chao_S02100.jpg",
     category: "Caramelos"
   },
@@ -174,7 +174,7 @@ export const sampleProducts: Product[] = [
     id: "22",
     name: "Chao Fresa",
     description: "Caramelos con sabor a fresa, dulces y deliciosos.",
-    price: 0.02,
+    price: 0.03,
     image: "https://bodegascontigo.myshopify.com/cdn/shop/files/CHAOORIGINALESFRESA100UND_1024x1024@2x.png?v=1694111642",
     category: "Caramelos"
   },
@@ -182,7 +182,7 @@ export const sampleProducts: Product[] = [
     id: "23",
     name: "Chao Mora",
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
-    price: 0.02,
+    price: 0.03,
     image: "https://licorescasamoreno.com/wp-content/uploads/2024/10/Menta-Chao-MoraAzul.png",
     category: "Caramelos"
   },
