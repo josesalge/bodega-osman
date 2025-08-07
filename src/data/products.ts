@@ -65,22 +65,22 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // },
-  // {
-  //   id: "9",
-  //   name: "Tom Mediano",
-  //   description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
-  //   price: 1.10,
-  //   image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
-  //   category: "Snacks"
-  // },
-  // {
-  //   id: "10",
-  //   name: "Galleta Kraker",
-  //   description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
-  //   price: 0.40,
-  //   image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010244un_4.jpg",
-  //   category: "Galletas"
-  // },
+  {
+    id: "9",
+    name: "Tom Mediano",
+    description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
+    price: 1.10,
+    image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
+    category: "Snacks"
+  },
+  {
+    id: "10",
+    name: "Galleta Kraker",
+    description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
+    price: 0.40,
+    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010244un_4.jpg",
+    category: "Galletas"
+  },
   {
     id: "11",
     name: "Galleta Hony",
