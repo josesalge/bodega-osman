@@ -35,7 +35,7 @@ export const BankInfoModal = ({ isOpen, onClose }: BankInfoModalProps) => {
                 <div>
                   <p className="font-medium">Banco</p>
                   <p className="text-muted-foreground">0105 - Banco Mercantil</p>
-                  <p className="text-sm text-muted-foreground">Cuenta Corriente: 0102-0000-00-0000000000</p>
+                  {/* <p className="text-sm text-muted-foreground">Cuenta Ahorro: 0105-0000-00-0000000000</p> */}
                 </div>
               </div>
               
