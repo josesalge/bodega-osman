@@ -73,14 +73,14 @@ export const sampleProducts: Product[] = [
   //   image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
   //   category: "Snacks"
   // },
-  {
-    id: "10",
-    name: "Galleta Kraker",
-    description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
-    price: 0.40,
-    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010244un_4.jpg",
-    category: "Galletas"
-  },
+  // {
+  //   id: "10",
+  //   name: "Galleta Kraker",
+  //   description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
+  //   price: 0.40,
+  //   image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010244un_4.jpg",
+  //   category: "Galletas"
+  // },
   {
     id: "11",
     name: "Galleta Hony",
