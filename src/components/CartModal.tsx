@@ -43,7 +43,7 @@ export const CartModal = ({
     
     message += `*TOTAL: ${total.toFixed(2)} REF*\n\n`;
     message += "Por favor confirme disponibilidad. ";
-    message += "La factura será enviada en los pagos de nómina. En caso de querer adelantar el pago, escribir al Whatsapp.";
+    // message += "La factura será enviada en los pagos de nómina. En caso de querer adelantar el pago, escribir al Whatsapp.";
 
     
     const encodedMessage = encodeURIComponent(message);
