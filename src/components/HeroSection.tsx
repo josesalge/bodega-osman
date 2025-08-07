@@ -39,21 +39,21 @@ export const HeroSection = () => {
               </Button> */}
             </div>
             
-            <div className="flex items-center space-x-6 text-sm">
-              <div className="flex items-center space-x-1">
-                <Star className="h-4 w-4 fill-accent text-accent" />
-                <span className="font-medium">4.9/5</span>
-                <span className="text-muted-foreground">Calificación</span>
-              </div>
-              <div>
-                <span className="font-medium">+1000</span>
-                <span className="text-muted-foreground ml-1">Productos Vendidos</span>
-              </div>
-              <div>
-                <span className="font-medium">Entrega</span>
-                <span className="text-muted-foreground ml-1">Rápida</span>
-              </div>
+          <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
+            <div className="flex items-center space-x-1">
+              <Star className="h-4 w-4 fill-accent text-accent" />
+              <span className="font-medium">4.9/5</span>
+              <span className="text-muted-foreground">Calificación</span>
             </div>
+            <div className="flex items-center space-x-1">
+              <span className="font-medium">+1000</span>
+              <span className="text-muted-foreground">Productos Vendidos</span>
+            </div>
+            <div className="flex items-center space-x-1">
+              <span className="font-medium">Entrega</span>
+              <span className="text-muted-foreground">Rápida</span>
+            </div>
+          </div>
           </div>
           
           {/* Right content */}
