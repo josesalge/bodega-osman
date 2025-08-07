@@ -65,14 +65,14 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // },
-  {
-    id: "9",
-    name: "Tom Mediano",
-    description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
-    price: 1.10,
-    image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
-    category: "Snacks"
-  },
+  // {
+  //   id: "9",
+  //   name: "Tom Mediano",
+  //   description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
+  //   price: 1.10,
+  //   image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
+  //   category: "Snacks"
+  // },
   {
     id: "10",
     name: "Galleta Kraker",
