@@ -289,29 +289,29 @@ export const sampleProducts: Product[] = [
     price: 0.70,
     image: "https://vaquitaexpress.com.co/media/catalog/product/cache/e89ece728e3939ca368b457071d3c0be/7/7/7707200710359_31.jpg",
     category: "Cereal"
-  },
-  {
-    id: "37",
-    name: "Vitafer",
-    description: "Cuando te sientas cabizbajo, yo te ayudo con lo de abajo.",
-    price: 1.00,
-    image: "https://lh3.googleusercontent.com/ouFnUgQDjASkDmUOvc-8oPF-44HOBMF--jqcfbLKzAgd3jLTXvMEnoKJwMIQK245srPVusfkiUyp4K53i4wIAe5IZRVAePKnkuNC5LjsUwSt4yzzRQ",
-    category: "Amor"
-  },
-  {
-    id: "38",
-    name: "Lubrix de Chocolate",
-    description: "¡Brilla con orgullo y deslízate con confianza!",
-    price: 1.00,
-    image: "https://lh3.googleusercontent.com/kRQzjWJJnc23obzVFBTraTIZnThnPImMH2xGUZSs2hvPWhKD-3Qm93Z3OGYs-rK5GUxeXURmjMsLP2e11_Tva0dtIehVlxBmHFhKf-QYipB0aMHV",
-    category: "Amor"
-  },
-  {
-    id: "39",
-    name: "Globitos de Fiesta",
-    description: "Protección con estilo y mucho orgullo",
-    price: 1.00,
-    image: "https://lh3.googleusercontent.com/nOoOhGyYuqhCjNAXMJZbVVeihd4SJmnIOQ-nXuwrJ5q03Y8ZqDM4tjznd-v8DGRV2ZUBjmmJE9UL90QTDyhULTaiia6nmINiS33PBc-D3XcC83c=s650-rw",
-    category: "Amor"
   }
+  // {
+  //   id: "37",
+  //   name: "Vitafer",
+  //   description: "Cuando te sientas cabizbajo, yo te ayudo con lo de abajo.",
+  //   price: 1.00,
+  //   image: "https://lh3.googleusercontent.com/ouFnUgQDjASkDmUOvc-8oPF-44HOBMF--jqcfbLKzAgd3jLTXvMEnoKJwMIQK245srPVusfkiUyp4K53i4wIAe5IZRVAePKnkuNC5LjsUwSt4yzzRQ",
+  //   category: "Amor"
+  // },
+  // {
+  //   id: "38",
+  //   name: "Lubrix de Chocolate",
+  //   description: "¡Brilla con orgullo y deslízate con confianza!",
+  //   price: 1.00,
+  //   image: "https://lh3.googleusercontent.com/kRQzjWJJnc23obzVFBTraTIZnThnPImMH2xGUZSs2hvPWhKD-3Qm93Z3OGYs-rK5GUxeXURmjMsLP2e11_Tva0dtIehVlxBmHFhKf-QYipB0aMHV",
+  //   category: "Amor"
+  // },
+  // {
+  //   id: "39",
+  //   name: "Globitos de Fiesta",
+  //   description: "Protección con estilo y mucho orgullo",
+  //   price: 1.00,
+  //   image: "https://lh3.googleusercontent.com/nOoOhGyYuqhCjNAXMJZbVVeihd4SJmnIOQ-nXuwrJ5q03Y8ZqDM4tjznd-v8DGRV2ZUBjmmJE9UL90QTDyhULTaiia6nmINiS33PBc-D3XcC83c=s650-rw",
+  //   category: "Amor"
+  // }
 ];
