@@ -148,7 +148,7 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "19",
-    name: "Flaquito Rojo.",
+    name: "Flaquito Rojo",
     description: "Chocolate en barra con sabor clásico, presentación roja.",
     price: 0.50,
     image: "https://www.idheastore.com/store/wp-content/uploads/Diseno-sin-titulo-96.png",
