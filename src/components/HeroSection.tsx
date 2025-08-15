@@ -46,7 +46,7 @@ export const HeroSection = () => {
               <span className="text-muted-foreground">Calificación</span>
             </div>
             <div className="flex items-center space-x-1">
-              <span className="font-medium">+1000</span>
+              <span className="font-medium">+19.000</span>
               <span className="text-muted-foreground">Productos Vendidos</span>
             </div>
             <div className="flex items-center space-x-1">
