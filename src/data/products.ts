@@ -66,6 +66,14 @@ export const sampleProducts: Product[] = [
   //   category: "Saludables"
   // },
   {
+    id: "37",
+    name: "Marilu de Chocolate",
+    description: "Deliciosa galleta con relleno de chocolate, irresistibles.",
+    price: 0.45,
+    image: "https://lh3.googleusercontent.com/vydqQDPBIlo6sz2LWlIZiBBcAZoaso1w58R_Pkt69SBq-wzlJjPcHZbd7p2-NssjF0ne7rk3Iehjf78GG8oPy0xs9qCm09hHolizg6c_72Yk3A5a",
+    category: "Galletas"
+  },
+  {
     id: "9",
     name: "Tom Mediano",
     description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
@@ -78,7 +86,7 @@ export const sampleProducts: Product[] = [
     name: "Galleta Kraker",
     description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
     price: 0.40,
-    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010244un_4.jpg",
+    image: "https://lh3.googleusercontent.com/Xa7ExDlj7GlZW2JPY6DLnYIZ4ayvl6NzD1BAvFGBj55LlA_uY0ZVievNJR36toVMbGQmOEQqNBTFhfIbNs1miUPeWNbEfL7wYWJPyho_1f8vHr8tgw",
     category: "Galletas"
   },
   {
@@ -86,7 +94,7 @@ export const sampleProducts: Product[] = [
     name: "Galleta Hony",
     description: "Galletas dulces con miel, perfectas para el desayuno.",
     price: 0.40,
-    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10010243un_4.jpg",
+    image: "https://lh3.googleusercontent.com/TJWXJ39L8eIoRuoO21GVJV3GoYuu3V4BSqvijXT1KVW2PzRtsbUz29lclO106L9hz972cVsGjadg2-Ag3mccQUPlQs1nSJlJ7uViajxIcwA2BBM",
     category: "Galletas"
   },
   {
@@ -94,7 +102,7 @@ export const sampleProducts: Product[] = [
     name: "Club Social",
     description: "Galletas clásicas con variedad de sabores, ideales para picar entre horas.",
     price: 0.40,
-    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10003699un_4.jpg",
+    image: "https://lh3.googleusercontent.com/sYRConwAk-Bh4FXs4Ly_Rw-c-IVlP-knlms6do2x8C_BExAhTuYNpQh6I5zABIkBjtzbqXek5vztDhoBvdNoQO0GjWkbWAlymUYAeuiujPq8wuU",
     category: "Galletas"
   },
 
@@ -103,7 +111,7 @@ export const sampleProducts: Product[] = [
     name: "Doritos",
     description: "Tortillas de maíz con sabor a queso, crujientes y sabrosas.",
     price: 1.20,
-    image: "https://vallearriba.elplazas.com/media/catalog/product/cache/3e568157972a1320c1e54e4ca9aac161/1/0/10008036un_3.jpg",
+    image: "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
     category: "Snacks"
   },
   {
@@ -146,14 +154,14 @@ export const sampleProducts: Product[] = [
     image: "https://grupoleiros.com/image/leiros/GUCM0946.png",
     category: "Galletas"
   },
-  {
-    id: "19",
-    name: "Flaquito Rojo",
-    description: "Chocolate en barra con sabor clásico, presentación roja.",
-    price: 0.50,
-    image: "https://www.idheastore.com/store/wp-content/uploads/Diseno-sin-titulo-96.png",
-    category: "Chocolates"
-  },
+  // {
+  //   id: "19",
+  //   name: "Flaquito Rojo",
+  //   description: "Chocolate en barra con sabor clásico, presentación roja.",
+  //   price: 0.50,
+  //   image: "https://www.idheastore.com/store/wp-content/uploads/Diseno-sin-titulo-96.png",
+  //   category: "Chocolates"
+  // },
   {
     id: "20",
     name: "Toronto",
