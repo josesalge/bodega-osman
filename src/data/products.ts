@@ -152,7 +152,7 @@ export const sampleProducts: Product[] = [
     description: "Galleta de chocolate con sabor a fresa, deliciosas.",
     price: 1.00,
     image: "https://grupoleiros.com/image/leiros/GUCM0946.png",
-    category: "Galletas"
+    category: "Galletas "
   },
   // {
   //   id: "19",
