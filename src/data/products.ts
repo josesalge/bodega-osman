@@ -274,14 +274,14 @@ export const sampleProducts: Product[] = [
     image: "https://assets.tuzonamarket.com/images/producto/9qVfCGH7G4.jpg",
     category: "Snacks"
   },
-  {
-    id: "34",
-    name: "Palmeritas",
-    description: "Las famosas palmeritas de panadería, aquí en al bodega.",
-    price: 0.2,
-    image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-palmerita-x-6-uds-min.jpg?v=1712428490",
-    category: "Snacks"
-  },
+  // {
+  //   id: "34",
+  //   name: "Palmeritas",
+  //   description: "Las famosas palmeritas de panadería, aquí en al bodega.",
+  //   price: 0.2,
+  //   image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-palmerita-x-6-uds-min.jpg?v=1712428490",
+  //   category: "Snacks"
+  // },
   {
     id: "35",
     name: "Flips Chocolate",
