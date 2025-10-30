@@ -65,6 +65,14 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // },
+    {
+    id: "38",
+    name: "Ovamaltina",
+    description: "Delicioso chocolate, perfecto para untar irresistibles.",
+    price: 1.7,
+    image: "https://lh3.googleusercontent.com/apFuO7Pui2hDVPsCo13Mq-VO4j_85hy35JKCbDQ6QUjXoU1AEH3mu2LX5Ez8_1OakmjatuZQ8BxjW65jrsncQMIwumxkpKvtNHqARPT22lBEsdgr",
+    category: "Chocolates"
+  },
   {
     id: "37",
     name: "Marilu de Chocolate",
@@ -174,7 +182,7 @@ export const sampleProducts: Product[] = [
     id: "21",
     name: "Chao Menta",
     description: "Caramelos de menta refrescantes, ideales para después de comer.",
-    price: 0.03,
+    price: 0.04,
     image: "https://www.iberoexpress.es/wp-content/uploads/2019/03/caramelo_menta_chao_S02100.jpg",
     category: "Caramelos"
   },
@@ -182,7 +190,7 @@ export const sampleProducts: Product[] = [
     id: "22",
     name: "Chao Fresa",
     description: "Caramelos con sabor a fresa, dulces y deliciosos.",
-    price: 0.03,
+    price: 0.04,
     image: "https://bodegascontigo.myshopify.com/cdn/shop/files/CHAOORIGINALESFRESA100UND_1024x1024@2x.png?v=1694111642",
     category: "Caramelos"
   },
@@ -190,7 +198,7 @@ export const sampleProducts: Product[] = [
     id: "23",
     name: "Chao Mora",
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
-    price: 0.03,
+    price: 0.04,
     image: "https://licorescasamoreno.com/wp-content/uploads/2024/10/Menta-Chao-MoraAzul.png",
     category: "Caramelos"
   },
@@ -198,7 +206,7 @@ export const sampleProducts: Product[] = [
     id: "24",
     name: "Caramelo Cafe",
     description: "Caramelos con sabor a café, para los amantes de este aroma.",
-    price: 0.05,
+    price: 0.07,
     image: "https://officenet.net.ve/51290-mercadolibre_default/caramelo-masticable-cafe-gurme-8gr.jpg",
     category: "Caramelos"
   },
@@ -206,7 +214,7 @@ export const sampleProducts: Product[] = [
     id: "25",
     name: "Trululu Aros",
     description: "Gomitas en forma de aros con sabores frutales. Deliciosas para compartir.",
-    price: 0.90,
+    price: 1.1,
     image: "https://lh3.googleusercontent.com/o6CBGbGZLCEvsCf-tqfRIfEHZ9KXV2u1oo-gdCk11CSTDQKXAyf6wwZw28yo5UG-ZsJLredXWYbV6nnIhHmhMoZup049_ZJiqJ_Hsgh9CrCMyRK-qw",
     category: "Gomitas"
   },
@@ -214,7 +222,7 @@ export const sampleProducts: Product[] = [
     id: "26",
     name: "Trululu Gusanos",
     description: "Gomitas en forma de gusanos con divertidos colores.",
-    price: 0.90,
+    price: 1.1,
     image: "https://lh3.googleusercontent.com/1JxWSFUb7eqe5flwDd4xmuKyuSyL8PET38dYok9qNiBX2GmcxwAAmKeRrdJsiuDUzoPCO0PDmtVGE-03boXMe3eJd6nnRaYL5mWtAR2aUZMaaIY",
     category: "Gomitas"
   },
@@ -222,7 +230,7 @@ export const sampleProducts: Product[] = [
     id: "27",
     name: "Trululu Sabores",
     description: "Mezcla de gomitas Trululu con variedad de sabores.",
-    price: 0.90,
+    price: 1.1,
     image: "https://madisoncenter.com/cdn/shop/files/trululusabores.jpg?v=1710943224",
     category: "Gomitas"
   },
