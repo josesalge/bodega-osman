@@ -122,14 +122,14 @@ export const sampleProducts: Product[] = [
     image: "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
     category: "Snacks"
   },
-  {
-    id: "14",
-    name: "Milka",
-    description: "Chocolate suave con leche, cremoso y delicioso.",
-    price: 2.50,
-    image: "https://familybox.store/cdn/shop/files/chocolate-milka-sabores-variados-100g-enviar-a-venezuela-ship-to-venezuela-supermercado-online-venezuela-online-supermarket-889354.jpg?v=1712239892",
-    category: "Chocolates"
-  },
+  // {
+  //   id: "14",
+  //   name: "Milka",
+  //   description: "Chocolate suave con leche, cremoso y delicioso.",
+  //   price: 2.50,
+  //   image: "https://familybox.store/cdn/shop/files/chocolate-milka-sabores-variados-100g-enviar-a-venezuela-ship-to-venezuela-supermercado-online-venezuela-online-supermarket-889354.jpg?v=1712239892",
+  //   category: "Chocolates"
+  // },
   {
     id: "15",
     name: "Jean Cake",
@@ -191,7 +191,7 @@ export const sampleProducts: Product[] = [
     name: "Chao Fresa",
     description: "Caramelos con sabor a fresa, dulces y deliciosos.",
     price: 0.04,
-    image: "https://bodegascontigo.myshopify.com/cdn/shop/files/CHAOORIGINALESFRESA100UND_1024x1024@2x.png?v=1694111642",
+    image: "https://assets.tuzonamarket.com/images/producto/QoHfligAP2.jpg",
     category: "Caramelos"
   },
   {
