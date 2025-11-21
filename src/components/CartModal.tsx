@@ -47,7 +47,7 @@ export const CartModal = ({
 
     
     const encodedMessage = encodeURIComponent(message);
-    const whatsappUrl = `https://wa.me/+584126165803?text=${encodedMessage}`;
+    const whatsappUrl = `https://wa.me/+584142079800?text=${encodedMessage}`;
     window.open(whatsappUrl, '_blank');
   };
 
