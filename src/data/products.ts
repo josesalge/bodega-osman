@@ -199,7 +199,7 @@ export const sampleProducts: Product[] = [
     name: "Chao Mora",
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
     price: 0.04,
-    image: "https://licorescasamoreno.com/wp-content/uploads/2024/10/Menta-Chao-MoraAzul.png",
+    image: "https://http2.mlstatic.com/D_NQ_NP_844225-MLA92745328743_092025-O.webp",
     category: "Caramelos"
   },
   {
