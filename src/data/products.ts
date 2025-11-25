@@ -93,7 +93,7 @@ export const sampleProducts: Product[] = [
     id: "10",
     name: "Galleta Kraker",
     description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
-    price: 0.40,
+    price: 0.50,
     image: "https://lh3.googleusercontent.com/Xa7ExDlj7GlZW2JPY6DLnYIZ4ayvl6NzD1BAvFGBj55LlA_uY0ZVievNJR36toVMbGQmOEQqNBTFhfIbNs1miUPeWNbEfL7wYWJPyho_1f8vHr8tgw",
     category: "Galletas"
   },
@@ -101,7 +101,7 @@ export const sampleProducts: Product[] = [
     id: "11",
     name: "Galleta Hony",
     description: "Galletas dulces con miel, perfectas para el desayuno.",
-    price: 0.40,
+    price: 0.50,
     image: "https://lh3.googleusercontent.com/TJWXJ39L8eIoRuoO21GVJV3GoYuu3V4BSqvijXT1KVW2PzRtsbUz29lclO106L9hz972cVsGjadg2-Ag3mccQUPlQs1nSJlJ7uViajxIcwA2BBM",
     category: "Galletas"
   },
@@ -262,7 +262,7 @@ export const sampleProducts: Product[] = [
     id: "31",
     name: "Oreo",
     description: "Las clásicas galletas con crema, ahora en tamaño individual.",
-    price: 0.50,
+    price: 0.60,
     image: "https://mimerkato.com/wp-content/uploads/2020/07/Oreo-Original.png",
     category: "Galletas"
   },
@@ -278,7 +278,7 @@ export const sampleProducts: Product[] = [
     id: "33",
     name: "Tom Pequeño",
     description: "Versión pequeña del clásico tom, ideal para un bocado rápido.",
-    price: 0.35,
+    price: 0.45,
     image: "https://assets.tuzonamarket.com/images/producto/9qVfCGH7G4.jpg",
     category: "Snacks"
   },
