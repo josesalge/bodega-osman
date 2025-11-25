@@ -199,7 +199,7 @@ export const sampleProducts: Product[] = [
     name: "Chao Mora",
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
     price: 0.04,
-    image: "https://http2.mlstatic.com/D_NQ_NP_844225-MLA92745328743_092025-O.webp",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FoWML4Ebq_TGFMFL65Y4JaM3jVeCB62m5g&s",
     category: "Caramelos"
   },
   {
