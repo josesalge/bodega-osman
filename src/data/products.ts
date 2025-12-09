@@ -138,14 +138,14 @@ export const sampleProducts: Product[] = [
     image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-panque-jeancake-min.jpg?v=1713389353",
     category: "Ponqué"
   },
-  {
-    id: "16",
-    name: "Katy",
-    description: "Deliciosa galleta de vainilla bañada en chocolate.",
-    price: 0.60,
-    image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
-    category: "Galletas"
-  },
+  // {
+  //   id: "16",
+  //   name: "Katy",
+  //   description: "Deliciosa galleta de vainilla bañada en chocolate.",
+  //   price: 0.60,
+  //   image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
+  //   category: "Galletas"
+  // },
   {
     id: "17",
     name: "Cheese Tris",
