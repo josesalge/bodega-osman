@@ -118,7 +118,7 @@ export const sampleProducts: Product[] = [
     id: "13",
     name: "Doritos",
     description: "Tortillas de maíz con sabor a queso, crujientes y sabrosas.",
-    price: 1.20,
+    price: 1.30,
     image: "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
     category: "Snacks"
   },
@@ -158,7 +158,7 @@ export const sampleProducts: Product[] = [
     id: "18",
     name: "Samba Fresa",
     description: "Galleta de chocolate con sabor a fresa, deliciosas.",
-    price: 1.00,
+    price: 1.20,
     image: "https://grupoleiros.com/image/leiros/GUCM0946.png",
     category: "Galletas "
   },
