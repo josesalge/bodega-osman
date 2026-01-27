@@ -64,8 +64,16 @@ export const sampleProducts: Product[] = [
   //   price: 11.75,
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
-  // },
+  // }
     {
+    id: "39",
+    name: "Mini Piruetas",
+    description: "Mini barquillas rellenas de chocolate, súper deliciosas.",
+    price: 2.9,
+    image: "https://triomcbo.com/wp-content/uploads/2025/09/D164-Mini-Piruetas-Le-Biscuit-200g-475x475.jpg",
+    category: "Cereal"
+  },
+  {
     id: "38",
     name: "Ovamaltina",
     description: "Delicioso chocolate, perfecto para untar irresistibles.",
@@ -159,7 +167,7 @@ export const sampleProducts: Product[] = [
     name: "Samba Fresa",
     description: "Galleta de chocolate con sabor a fresa, deliciosas.",
     price: 1.20,
-    image: "https://grupoleiros.com/image/leiros/GUCM0946.png",
+    image: "https://chucheriasvenezolanas.com/cdn/shop/products/samba-01_2000x_19ad237b-216f-4b75-84c5-d2db44a92b6e.jpg?v=1614921862",
     category: "Galletas "
   },
   // {
@@ -247,7 +255,7 @@ export const sampleProducts: Product[] = [
     name: "Cocosette",
     description: "Galletas rellenas de coco, dulces y deliciosas. Perfectas para recordar la playa.",
     price: 1.20,
-    image: "https://212global.com/wp-content/uploads/2023/09/6290e5aed6c5fbc0a832e541_thumbnail-600x600.png",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMvKLEmL02jKW8fwX8_2xTAdwekvfkrxJFQ&s",
     category: "Galletas"
   },
   {
@@ -255,7 +263,7 @@ export const sampleProducts: Product[] = [
     name: "Susy",
     description: "Galletas rellenas de crema con sabor a vainilla.Un clásico que nunca muere.",
     price: 1.20,
-    image: "https://212global.com/wp-content/uploads/2024/07/62c57e23fe969b330cfb2094_thumbnail-600x600.png",
+    image: "https://barakibodegon.net/cdn/shop/files/tienda-shoppi-susy-savoy-min.jpg?v=1720644928",
     category: "Galletas"
   },
   {
@@ -303,7 +311,7 @@ export const sampleProducts: Product[] = [
     name: "Flips Dulce Leche",
     description: "Snacks inflados con cobertura de dulce de leche, irresistibles.",
     price: 0.70,
-    image: "https://vaquitaexpress.com.co/media/catalog/product/cache/e89ece728e3939ca368b457071d3c0be/7/7/7707200710359_31.jpg",
+    image: "https://ultraya.com/cdn/shop/files/3123079126170e4a5e60d1084be9dfeb.jpg?v=1691522725",
     category: "Cereal"
   }
   // {
@@ -329,5 +337,5 @@ export const sampleProducts: Product[] = [
   //   price: 1.00,
   //   image: "https://lh3.googleusercontent.com/nOoOhGyYuqhCjNAXMJZbVVeihd4SJmnIOQ-nXuwrJ5q03Y8ZqDM4tjznd-v8DGRV2ZUBjmmJE9UL90QTDyhULTaiia6nmINiS33PBc-D3XcC83c=s650-rw",
   //   category: "Amor"
-  // }
+  // },
 ];
