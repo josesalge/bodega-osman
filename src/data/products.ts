@@ -85,7 +85,7 @@ export const sampleProducts: Product[] = [
     id: "9",
     name: "Tom Mediano",
     description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
-    price: 1.10,
+    price: 1.25,
     image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
     category: "Snacks"
   },
@@ -174,7 +174,7 @@ export const sampleProducts: Product[] = [
     id: "20",
     name: "Toronto",
     description: "Bombón de chocolate perfecto para regalarselo a esa personita especial.",
-    price: 0.60,
+    price: 0.65,
     image: "https://cdnx.jumpseller.com/tu-super-tm/image/15643891/resize/540/540?1647357068",
     category: "Chocolates"
   },
@@ -270,7 +270,7 @@ export const sampleProducts: Product[] = [
     id: "32",
     name: "Chips Ahoy",
     description: "Galletas con trozos de chocolate, crujientes y deliciosas.",
-    price: 0.60,
+    price: 0.70,
     image: "https://lh3.googleusercontent.com/-chhqni-zzUpkhN6Ga_GgCAJsv2_dIWpYaMObmoQySFotBqOPc2o233QhGL4MJNVk2EQlpRs9pcoWzm4i2KiFWCm_sef3dN3edpH3VXsDtbK_7mM",
     category: "Galletas"
   },
