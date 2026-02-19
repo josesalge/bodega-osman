@@ -85,7 +85,7 @@ export const sampleProducts: Product[] = [
     id: "37",
     name: "Marilu de Chocolate",
     description: "Deliciosa galleta con relleno de chocolate, irresistibles.",
-    price: 0.45,
+    price: 0.5,
     image: "https://lh3.googleusercontent.com/vydqQDPBIlo6sz2LWlIZiBBcAZoaso1w58R_Pkt69SBq-wzlJjPcHZbd7p2-NssjF0ne7rk3Iehjf78GG8oPy0xs9qCm09hHolizg6c_72Yk3A5a",
     category: "Galletas"
   },
@@ -142,7 +142,7 @@ export const sampleProducts: Product[] = [
     id: "15",
     name: "Jean Cake",
     description: "Pequeño panqueque individual, suave y esponjoso.",
-    price: 1.30,
+    price: 1.40,
     image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-panque-jeancake-min.jpg?v=1713389353",
     category: "Ponqué"
   },
