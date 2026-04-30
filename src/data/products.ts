@@ -65,7 +65,23 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // }
-    {
+  {
+    id: "41",
+    name: "Ruffles de Queso",
+    description: "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
+    price: 1.5,
+    image: "https://lh3.googleusercontent.com/YMwiVjQKjuMwpTWZvHxhMmym-HHP_25_mzAPA7bRTzZYw07zrrwtTXxaGbTXSeCTn9Gkm3xzlCFPWFDclhZFBmOEXnafyz1ygG04lTnbPmLmO6o",
+    category: "Snacks"
+  },
+  {
+    id: "40",
+    name: "Ruffles Original",
+    description: "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
+    price: 1.5,
+    image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
+    category: "Snacks"
+  },
+  {
     id: "39",
     name: "Mini Piruetas",
     description: "Mini barquillas rellenas de chocolate, súper deliciosas.",
@@ -315,7 +331,7 @@ export const sampleProducts: Product[] = [
     category: "Cereal"
   }
   // {
-  //   id: "37",
+  //   id: "0",
   //   name: "Vitafer",
   //   description: "Cuando te sientas cabizbajo, yo te ayudo con lo de abajo.",
   //   price: 1.00,
@@ -323,7 +339,7 @@ export const sampleProducts: Product[] = [
   //   category: "Amor"
   // },
   // {
-  //   id: "38",
+  //   id: "0",
   //   name: "Lubrix de Chocolate",
   //   description: "¡Brilla con orgullo y deslízate con confianza!",
   //   price: 1.00,
@@ -331,7 +347,7 @@ export const sampleProducts: Product[] = [
   //   category: "Amor"
   // },
   // {
-  //   id: "39",
+  //   id: "0",
   //   name: "Globitos de Fiesta",
   //   description: "Protección con estilo y mucho orgullo",
   //   price: 1.00,
