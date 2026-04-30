@@ -66,7 +66,7 @@ export const sampleProducts: Product[] = [
   //   category: "Saludables"
   // }
   {
-    id: "41",
+    id: "42",
     name: "Ruffles de Queso",
     description: "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
     price: 1.5,
@@ -74,21 +74,29 @@ export const sampleProducts: Product[] = [
     category: "Snacks"
   },
   {
-    id: "40",
+    id: "41",
     name: "Ruffles Original",
     description: "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
     price: 1.5,
     image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
     category: "Snacks"
   },
-  {
-    id: "39",
-    name: "Mini Piruetas",
-    description: "Mini barquillas rellenas de chocolate, súper deliciosas.",
-    price: 2.9,
-    image: "https://triomcbo.com/wp-content/uploads/2025/09/D164-Mini-Piruetas-Le-Biscuit-200g-475x475.jpg",
-    category: "Cereal"
+    {
+    id: "40",
+    name: "Chocochitas",
+    description: "Deliciosas galletitas con chips de chocolate, perfectas para un antojo rápido",
+    price: 0.8,
+    image: "https://saboresmarket.com/cdn/shop/files/chocochitas-32g-9755281_700x700.png?v=1755224548",
+    category: "Galletas"
   },
+  // {
+  //   id: "39",
+  //   name: "Mini Piruetas",
+  //   description: "Mini barquillas rellenas de chocolate, súper deliciosas.",
+  //   price: 2.9,
+  //   image: "https://triomcbo.com/wp-content/uploads/2025/09/D164-Mini-Piruetas-Le-Biscuit-200g-475x475.jpg",
+  //   category: "Cereal"
+  // },
   {
     id: "38",
     name: "Ovamaltina",
