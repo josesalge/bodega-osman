@@ -206,7 +206,7 @@ export const sampleProducts: Product[] = [
     id: "20",
     name: "Toronto",
     description: "Bombón de chocolate perfecto para regalarselo a esa personita especial.",
-    price: 0.65,
+    price: 0.70,
     image: "https://cdnx.jumpseller.com/tu-super-tm/image/15643891/resize/540/540?1647357068",
     category: "Chocolates"
   },
@@ -326,7 +326,7 @@ export const sampleProducts: Product[] = [
     id: "35",
     name: "Flips Chocolate",
     description: "Snacks inflados con cobertura de chocolate, crujientes y dulces.",
-    price: 0.70,
+    price: 0.80,
     image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-flips-pequenos-chocolate-min.jpg?v=1694013447",
     category: "Cereal"
   },
@@ -334,7 +334,7 @@ export const sampleProducts: Product[] = [
     id: "36",
     name: "Flips Dulce Leche",
     description: "Snacks inflados con cobertura de dulce de leche, irresistibles.",
-    price: 0.70,
+    price: 0.80,
     image: "https://ultraya.com/cdn/shop/files/3123079126170e4a5e60d1084be9dfeb.jpg?v=1691522725",
     category: "Cereal"
   }
