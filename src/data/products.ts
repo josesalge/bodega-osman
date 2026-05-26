@@ -66,6 +66,14 @@ export const sampleProducts: Product[] = [
   //   category: "Saludables"
   // }
   {
+    id: "44",
+    name: "Ping Pong",
+    description: "Delicioso snack de maní cubierto sabor a chocolate.",
+    price: 1.5,
+    image: "https://lh3.googleusercontent.com/v7eiTtvbBeNxs_E-BIqVpl69MYlkPev6C5szTSUeCqBBcYfYDNKH31zdt7dP_IgKFovRZ8oSJHRJ5eilJh9rDGwL3N_SmIsRlf-Mwr1xdF8SPDa_",
+    category: "Chocolates"
+  },
+  {
     id: "42",
     name: "Ruffles de Queso",
     description: "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
@@ -231,7 +239,7 @@ export const sampleProducts: Product[] = [
     name: "Chao Mora",
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
     price: 0.04,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FoWML4Ebq_TGFMFL65Y4JaM3jVeCB62m5g&s",
+    image: "https://assets.tuzonamarket.com/images/producto/BEBoQRa9ja.jpg",
     category: "Caramelos"
   },
   {
@@ -279,7 +287,7 @@ export const sampleProducts: Product[] = [
     name: "Cocosette",
     description: "Galletas rellenas de coco, dulces y deliciosas. Perfectas para recordar la playa.",
     price: 1.20,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMvKLEmL02jKW8fwX8_2xTAdwekvfkrxJFQ&s",
+    image: "https://lh3.googleusercontent.com/qNHHFBE2-nY4oVMZ0w0HVpCxrN-c-GUcvEkiwZhemUwBtWs9Hp_QI0NqQipePzwPqUoPU41RqoG8nii4-fCHlr64SFVPscfzgDzFu2sAbS5Jq6H-",
     category: "Galletas"
   },
   {
@@ -292,10 +300,18 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "31",
+    name: "Oreo Americana",
+    description: "Las clásicas galletas con crema, ahora en tamaño individual.",
+    price: 0.60,
+    image: "https://lh3.googleusercontent.com/DhgkkvtCFsHIhE0_0mKX7qMkDI3oTTSb7Us9cVowZvdHFrC83ZI6Fj-U8-NLkqR9s5-MXv_8K2MUb9M-udOwE49c3dF_gJJ8oXIQjg_lRe1oMKAL",
+    category: "Galletas"
+  },
+    {
+    id: "43",
     name: "Oreo",
     description: "Las clásicas galletas con crema, ahora en tamaño individual.",
     price: 0.60,
-    image: "https://mimerkato.com/wp-content/uploads/2020/07/Oreo-Original.png",
+    image: "https://lh3.googleusercontent.com/NmbfDuU7bSjNnn3Y-Dpx6BtALVViyVS8WR5pUkFVqnsjwwb9I9gbLuI0W7VTHkfrpxv6yNpFs3ffI1-LMtzzaDC3Y9Uexkq0T0rRdqY5GZCk2q4b",
     category: "Galletas"
   },
   {
@@ -327,7 +343,7 @@ export const sampleProducts: Product[] = [
     name: "Flips Chocolate",
     description: "Snacks inflados con cobertura de chocolate, crujientes y dulces.",
     price: 0.80,
-    image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-flips-pequenos-chocolate-min.jpg?v=1694013447",
+    image: "https://lh3.googleusercontent.com/Jb0Z2jhKuLImEVpY_u4LFydrgR8BEC5EgwHyJ07MQ8NgFFy8dQBu7DuX3mPDGfJtZwrH-H3-r44wYaqkr0qhteObyn9A5_gS3b2xzuyBWEzNPjCYWg",
     category: "Cereal"
   },
   {
@@ -335,7 +351,7 @@ export const sampleProducts: Product[] = [
     name: "Flips Dulce Leche",
     description: "Snacks inflados con cobertura de dulce de leche, irresistibles.",
     price: 0.80,
-    image: "https://ultraya.com/cdn/shop/files/3123079126170e4a5e60d1084be9dfeb.jpg?v=1691522725",
+    image: "https://lh3.googleusercontent.com/n6hVYmKBzoKTqqdwjZ2PmRUYDYEyn23NVCAYxILKJtHbvvyJ6CC6cAGHMjvdlq6IOMV8rqtl2BCEXikqDfriR7I482XIVkLtyV32dtFa8advpIhmvg",
     category: "Cereal"
   }
   // {
