@@ -65,6 +65,30 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // }
+    {
+    id: "47",
+    name: "Iselitas Yuca Chips con Sal 28g",
+    description: "Chips de Yuca con un toque de sal, crujientes y deliciosas.",
+    price: 0.0,
+    image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/196363/2091271.jpg?v=639202605857070000",
+    category: "Snacks"
+  },
+    {
+    id: "46",
+    name: "Iselitas Yuca Chips Crema de Cebolla 70g",
+    description: "Chips de Yuca con sabor a crema de cebolla, crujientes y deliciosas.",
+    price: 0.0,
+    image: "https://lh3.googleusercontent.com/5cV5T6VPGahgrBnRAU7V15IXcewn13Jg7eH-xEOsSDl6IxHP3xC7oZjg8U156RqDn927f57ESvkIGELMJyXooQ07j0g6aHzAlFxp1dXolcq7KS0",
+    category: "Snacks"
+  },
+  {
+    id: "45",
+    name: "Trident de Mora Azul",
+    description: "Chicles con sabor a mora azul, refrescantes y duraderos.",
+    price: 0.0,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw0sKGas6kgmQaTaI8Ce6s0ohnfH0RcY5kWkUEgatx6TP-Qzp3cVZeuk&s=10",
+    category: "Chicles"
+  },
   {
     id: "44",
     name: "Ping Pong",
@@ -75,7 +99,7 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "42",
-    name: "Ruffles de Queso",
+    name: "Ruffles de Queso 45g",
     description: "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
     price: 1.5,
     image: "https://lh3.googleusercontent.com/YMwiVjQKjuMwpTWZvHxhMmym-HHP_25_mzAPA7bRTzZYw07zrrwtTXxaGbTXSeCTn9Gkm3xzlCFPWFDclhZFBmOEXnafyz1ygG04lTnbPmLmO6o",
@@ -83,7 +107,7 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "41",
-    name: "Ruffles Original",
+    name: "Ruffles Original 45g",
     description: "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
     price: 1.5,
     image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
@@ -123,7 +147,7 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "9",
-    name: "Tom Mediano",
+    name: "Tom 80g",
     description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
     price: 1.25,
     image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
@@ -156,7 +180,7 @@ export const sampleProducts: Product[] = [
 
   {
     id: "13",
-    name: "Doritos",
+    name: "Doritos 45g",
     description: "Tortillas de maíz con sabor a queso, crujientes y sabrosas.",
     price: 1.30,
     image: "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
@@ -178,14 +202,14 @@ export const sampleProducts: Product[] = [
     image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-panque-jeancake-min.jpg?v=1713389353",
     category: "Ponqué"
   },
-  // {
-  //   id: "16",
-  //   name: "Katy",
-  //   description: "Deliciosa galleta de vainilla bañada en chocolate.",
-  //   price: 0.60,
-  //   image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
-  //   category: "Galletas"
-  // },
+  {
+    id: "16",
+    name: "Katy",
+    description: "Deliciosa galleta de vainilla bañada en chocolate.",
+    price: 0.0,
+    image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
+    category: "Galletas"
+  },
   {
     id: "17",
     name: "Cheese Tris",
@@ -324,7 +348,7 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "33",
-    name: "Tom Pequeño",
+    name: "Tom 28g",
     description: "Versión pequeña del clásico tom, ideal para un bocado rápido.",
     price: 0.45,
     image: "https://assets.tuzonamarket.com/images/producto/9qVfCGH7G4.jpg",
