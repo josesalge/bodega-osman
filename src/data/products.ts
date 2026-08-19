@@ -69,7 +69,7 @@ export const sampleProducts: Product[] = [
     id: "47",
     name: "Iselitas Yuca Chips con Sal 28g",
     description: "Chips de Yuca con un toque de sal, crujientes y deliciosas.",
-    price: 2.23,
+    price: 0.80,
     image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/196363/2091271.jpg?v=639202605857070000",
     category: "Snacks"
   },
@@ -77,7 +77,7 @@ export const sampleProducts: Product[] = [
     id: "46",
     name: "Iselitas Yuca Chips Crema de Cebolla 70g",
     description: "Chips de Yuca con sabor a crema de cebolla, crujientes y deliciosas.",
-    price: 0.80,
+    price: 2.30,
     image: "https://lh3.googleusercontent.com/5cV5T6VPGahgrBnRAU7V15IXcewn13Jg7eH-xEOsSDl6IxHP3xC7oZjg8U156RqDn927f57ESvkIGELMJyXooQ07j0g6aHzAlFxp1dXolcq7KS0",
     category: "Snacks"
   },
