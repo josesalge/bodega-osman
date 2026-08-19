@@ -206,7 +206,7 @@ export const sampleProducts: Product[] = [
     id: "16",
     name: "Katy",
     description: "Deliciosa galleta de vainilla bañada en chocolate.",
-    price: 0.0,
+    price: 0.80,
     image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
     category: "Galletas"
   },
