@@ -1,5 +1,6 @@
 import { ShoppingCart, Store, Phone, CreditCard } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Wallet } from "lucide-react";
 
 interface HeaderProps {
   cartItemsCount: number;
@@ -7,7 +8,11 @@ interface HeaderProps {
   onBankInfoClick: () => void;
 }
 
-export const Header = ({ cartItemsCount, onCartClick, onBankInfoClick }: HeaderProps) => {
+export const Header = ({
+  cartItemsCount,
+  onCartClick,
+  onBankInfoClick,
+}: HeaderProps) => {
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container flex h-16 items-center justify-between px-4">
@@ -22,7 +27,7 @@ export const Header = ({ cartItemsCount, onCartClick, onBankInfoClick }: HeaderP
             </div>
           </div>
         </div>
-        
+
         {/* <nav className="hidden md:flex items-center space-x-6">
           <a href="#productos" className="text-sm font-medium hover:text-primary transition-colors">
             Productos
@@ -34,6 +39,22 @@ export const Header = ({ cartItemsCount, onCartClick, onBankInfoClick }: HeaderP
 
         <div className="flex items-center space-x-2">
           <Button
+            asChild
+            variant="outline"
+            size="sm"
+            className="group hidden sm:inline-flex items-center gap-2 rounded-lg border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50 hover:text-slate-900"
+          >
+            <a
+              href="https://josesalge.github.io/bodega-osman-saldo/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Wallet className="h-4 w-4 shrink-0 text-slate-600 transition-colors group-hover:text-slate-900" />
+              <span>Consultar Mi Deuda</span>
+            </a>
+          </Button>
+
+          <Button
             variant="outline"
             size="sm"
             onClick={onBankInfoClick}
@@ -42,9 +63,9 @@ export const Header = ({ cartItemsCount, onCartClick, onBankInfoClick }: HeaderP
             <CreditCard className="h-4 w-4" />
             <span>Datos Bancarios</span>
           </Button>
-          
+
           <Button
-            variant="outline" 
+            variant="outline"
             size="sm"
             onClick={onBankInfoClick}
             className="sm:hidden"
