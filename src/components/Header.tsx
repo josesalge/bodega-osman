@@ -37,20 +37,17 @@ export const Header = ({
           </a>
         </nav> */}
 
-        <div className="flex items-center space-x-2">
-          <Button
-            asChild
-            variant="outline"
-            size="sm"
-            className="group hidden sm:inline-flex items-center gap-2 rounded-lg border-slate-200 bg-white px-3 py-2 text-xs font-medium text-slate-700 transition-colors hover:border-slate-300 hover:bg-slate-50 hover:text-slate-900"
-          >
+        <div className="flex items-center space-x-8">
+          <Button asChild variant="outline" size="sm">
             <a
               href="https://josesalge.github.io/bodega-osman-saldo/"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Consultar Mi Deuda"
+              className="inline-flex items-center gap-2 whitespace-nowrap"
             >
-              <Wallet className="h-4 w-4 shrink-0 text-slate-600 transition-colors group-hover:text-slate-900" />
-              <span>Consultar Mi Deuda</span>
+              <Wallet className="h-4 w-4 shrink-0" />
+              <span className="hidden sm:inline">Consultar Mi Deuda</span>
             </a>
           </Button>
 
