@@ -10,7 +10,7 @@ export const sampleProducts: Product[] = [
   //   category: "Chocolates"
   // },
   // {
-  //   id: "2", 
+  //   id: "2",
   //   name: "Gomitas Surtidas",
   //   description: "Mix de gomitas de frutas con sabores tropicales. Perfectas para compartir.",
   //   price: 8.75,
@@ -54,7 +54,7 @@ export const sampleProducts: Product[] = [
   //   name: "Chicles Tutti Frutti",
   //   description: "Chicles con sabores frutales intensos que duran mucho tiempo.",
   //   price: 4.50,
-  //   image: "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?w=400&h=400&fit=crop", 
+  //   image: "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?w=400&h=400&fit=crop",
   //   category: "Chicles"
   // },
   // {
@@ -65,61 +65,72 @@ export const sampleProducts: Product[] = [
   //   image: "https://images.unsplash.com/photo-1571771019784-3ff35f4f4277?w=400&h=400&fit=crop",
   //   category: "Saludables"
   // }
-    {
+  {
     id: "47",
     name: "Iselitas Yuca con Sal 28g",
     description: "Chips de Yuca con un toque de sal, crujientes y deliciosas.",
-    price: 0.80,
-    image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/196363/2091271.jpg?v=639202605857070000",
-    category: "Snacks"
+    price: 0.8,
+    image:
+      "https://locatelvenezuela.vtexassets.com/arquivos/ids/196363/2091271.jpg?v=639202605857070000",
+    category: "Snacks",
   },
-    {
+  {
     id: "46",
     name: "Iselitas de Cebolla 70g",
-    description: "Chips de Yuca con sabor a crema de cebolla, crujientes y deliciosas.",
-    price: 2.30,
-    image: "https://lh3.googleusercontent.com/5cV5T6VPGahgrBnRAU7V15IXcewn13Jg7eH-xEOsSDl6IxHP3xC7oZjg8U156RqDn927f57ESvkIGELMJyXooQ07j0g6aHzAlFxp1dXolcq7KS0",
-    category: "Snacks"
+    description:
+      "Chips de Yuca con sabor a crema de cebolla, crujientes y deliciosas.",
+    price: 2.3,
+    image:
+      "https://lh3.googleusercontent.com/5cV5T6VPGahgrBnRAU7V15IXcewn13Jg7eH-xEOsSDl6IxHP3xC7oZjg8U156RqDn927f57ESvkIGELMJyXooQ07j0g6aHzAlFxp1dXolcq7KS0",
+    category: "Snacks",
   },
   {
     id: "45",
     name: "Trident de Mora Azul",
     description: "Chicles con sabor a mora azul, refrescantes y duraderos.",
-    price: 0.80,
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw0sKGas6kgmQaTaI8Ce6s0ohnfH0RcY5kWkUEgatx6TP-Qzp3cVZeuk&s=10",
-    category: "Chicles"
+    price: 0.8,
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw0sKGas6kgmQaTaI8Ce6s0ohnfH0RcY5kWkUEgatx6TP-Qzp3cVZeuk&s=10",
+    category: "Chicles",
   },
   {
     id: "44",
     name: "Ping Pong",
     description: "Delicioso snack de maní cubierto sabor a chocolate.",
     price: 1.5,
-    image: "https://lh3.googleusercontent.com/v7eiTtvbBeNxs_E-BIqVpl69MYlkPev6C5szTSUeCqBBcYfYDNKH31zdt7dP_IgKFovRZ8oSJHRJ5eilJh9rDGwL3N_SmIsRlf-Mwr1xdF8SPDa_",
-    category: "Chocolates"
+    image:
+      "https://lh3.googleusercontent.com/v7eiTtvbBeNxs_E-BIqVpl69MYlkPev6C5szTSUeCqBBcYfYDNKH31zdt7dP_IgKFovRZ8oSJHRJ5eilJh9rDGwL3N_SmIsRlf-Mwr1xdF8SPDa_",
+    category: "Chocolates",
   },
   {
     id: "42",
     name: "Ruffles de Queso 45g",
-    description: "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
+    description:
+      "Crujiente papa ondulada con intenso sabor a queso, ideal para un antojo sin complicaciones.",
     price: 1.5,
-    image: "https://lh3.googleusercontent.com/YMwiVjQKjuMwpTWZvHxhMmym-HHP_25_mzAPA7bRTzZYw07zrrwtTXxaGbTXSeCTn9Gkm3xzlCFPWFDclhZFBmOEXnafyz1ygG04lTnbPmLmO6o",
-    category: "Snacks"
+    image:
+      "https://lh3.googleusercontent.com/YMwiVjQKjuMwpTWZvHxhMmym-HHP_25_mzAPA7bRTzZYw07zrrwtTXxaGbTXSeCTn9Gkm3xzlCFPWFDclhZFBmOEXnafyz1ygG04lTnbPmLmO6o",
+    category: "Snacks",
   },
   {
     id: "41",
     name: "Ruffles Original 45g",
-    description: "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
+    description:
+      "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
     price: 1.5,
-    image: "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
-    category: "Snacks"
+    image:
+      "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
+    category: "Snacks",
   },
-    {
+  {
     id: "40",
     name: "Chocochitas",
-    description: "Deliciosas galletitas con chips de chocolate, perfectas para un antojo rápido",
+    description:
+      "Deliciosas galletitas con chips de chocolate, perfectas para un antojo rápido",
     price: 0.8,
-    image: "https://saboresmarket.com/cdn/shop/files/chocochitas-32g-9755281_700x700.png?v=1755224548",
-    category: "Galletas"
+    image:
+      "https://saboresmarket.com/cdn/shop/files/chocochitas-32g-9755281_700x700.png?v=1755224548",
+    category: "Galletas",
   },
   // {
   //   id: "39",
@@ -134,57 +145,67 @@ export const sampleProducts: Product[] = [
     name: "Ovamaltina",
     description: "Delicioso chocolate, perfecto para untar irresistibles.",
     price: 1.7,
-    image: "https://lh3.googleusercontent.com/apFuO7Pui2hDVPsCo13Mq-VO4j_85hy35JKCbDQ6QUjXoU1AEH3mu2LX5Ez8_1OakmjatuZQ8BxjW65jrsncQMIwumxkpKvtNHqARPT22lBEsdgr",
-    category: "Chocolates"
+    image:
+      "https://lh3.googleusercontent.com/apFuO7Pui2hDVPsCo13Mq-VO4j_85hy35JKCbDQ6QUjXoU1AEH3mu2LX5Ez8_1OakmjatuZQ8BxjW65jrsncQMIwumxkpKvtNHqARPT22lBEsdgr",
+    category: "Chocolates",
   },
   {
     id: "37",
     name: "Marilu de Chocolate",
     description: "Deliciosa galleta con relleno de chocolate, irresistibles.",
     price: 0.5,
-    image: "https://lh3.googleusercontent.com/vydqQDPBIlo6sz2LWlIZiBBcAZoaso1w58R_Pkt69SBq-wzlJjPcHZbd7p2-NssjF0ne7rk3Iehjf78GG8oPy0xs9qCm09hHolizg6c_72Yk3A5a",
-    category: "Galletas"
+    image:
+      "https://lh3.googleusercontent.com/vydqQDPBIlo6sz2LWlIZiBBcAZoaso1w58R_Pkt69SBq-wzlJjPcHZbd7p2-NssjF0ne7rk3Iehjf78GG8oPy0xs9qCm09hHolizg6c_72Yk3A5a",
+    category: "Galletas",
   },
   {
     id: "9",
     name: "Tom 80g",
-    description: "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
+    description:
+      "Delicioso tom de tamaño mediano, perfecto para un snack rápido.",
     price: 1.25,
-    image: "https://assets.tuzonamarket.com/images/producto/7mEnWBcbiB.jpg",
-    category: "Snacks"
+    image:
+      "https://www.sigo.com.ve/images/thumbs/0026264_toston-tom-80gr_450.jpeg",
+    category: "Snacks",
   },
   {
     id: "10",
     name: "Galleta Kraker",
-    description: "Galletas saladas y crujientes, ideales para acompañar con quesos.",
-    price: 0.50,
-    image: "https://lh3.googleusercontent.com/Xa7ExDlj7GlZW2JPY6DLnYIZ4ayvl6NzD1BAvFGBj55LlA_uY0ZVievNJR36toVMbGQmOEQqNBTFhfIbNs1miUPeWNbEfL7wYWJPyho_1f8vHr8tgw",
-    category: "Galletas"
+    description:
+      "Galletas saladas y crujientes, ideales para acompañar con quesos.",
+    price: 0.5,
+    image:
+      "https://lh3.googleusercontent.com/Xa7ExDlj7GlZW2JPY6DLnYIZ4ayvl6NzD1BAvFGBj55LlA_uY0ZVievNJR36toVMbGQmOEQqNBTFhfIbNs1miUPeWNbEfL7wYWJPyho_1f8vHr8tgw",
+    category: "Galletas",
   },
   {
     id: "11",
     name: "Galleta Hony",
     description: "Galletas dulces con miel, perfectas para el desayuno.",
-    price: 0.50,
-    image: "https://lh3.googleusercontent.com/TJWXJ39L8eIoRuoO21GVJV3GoYuu3V4BSqvijXT1KVW2PzRtsbUz29lclO106L9hz972cVsGjadg2-Ag3mccQUPlQs1nSJlJ7uViajxIcwA2BBM",
-    category: "Galletas"
+    price: 0.5,
+    image:
+      "https://lh3.googleusercontent.com/TJWXJ39L8eIoRuoO21GVJV3GoYuu3V4BSqvijXT1KVW2PzRtsbUz29lclO106L9hz972cVsGjadg2-Ag3mccQUPlQs1nSJlJ7uViajxIcwA2BBM",
+    category: "Galletas",
   },
   {
     id: "12",
     name: "Club Social",
-    description: "Galletas clásicas con variedad de sabores, ideales para picar entre horas.",
-    price: 0.40,
-    image: "https://lh3.googleusercontent.com/sYRConwAk-Bh4FXs4Ly_Rw-c-IVlP-knlms6do2x8C_BExAhTuYNpQh6I5zABIkBjtzbqXek5vztDhoBvdNoQO0GjWkbWAlymUYAeuiujPq8wuU",
-    category: "Galletas"
+    description:
+      "Galletas clásicas con variedad de sabores, ideales para picar entre horas.",
+    price: 0.4,
+    image:
+      "https://lh3.googleusercontent.com/sYRConwAk-Bh4FXs4Ly_Rw-c-IVlP-knlms6do2x8C_BExAhTuYNpQh6I5zABIkBjtzbqXek5vztDhoBvdNoQO0GjWkbWAlymUYAeuiujPq8wuU",
+    category: "Galletas",
   },
 
   {
     id: "13",
     name: "Doritos 45g",
     description: "Tortillas de maíz con sabor a queso, crujientes y sabrosas.",
-    price: 1.30,
-    image: "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
-    category: "Snacks"
+    price: 1.3,
+    image:
+      "https://lh3.googleusercontent.com/GfoY_vXcwTZCK3lFhwNnSIEtiovRZ3p3zAgIE0l8CBi-t2yPOgpOns7wO38qDhK92lC5ZMqhmOqIAf-gXhupa31FWtASucA2Qx0ntJYIvJQ1wnoa",
+    category: "Snacks",
   },
   // {
   //   id: "14",
@@ -198,33 +219,37 @@ export const sampleProducts: Product[] = [
     id: "15",
     name: "Jean Cake",
     description: "Pequeño panqueque individual, suave y esponjoso.",
-    price: 1.40,
-    image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-panque-jeancake-min.jpg?v=1713389353",
-    category: "Ponqué"
+    price: 1.4,
+    image:
+      "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-panque-jeancake-min.jpg?v=1713389353",
+    category: "Ponqué",
   },
   {
     id: "16",
     name: "Katy",
     description: "Deliciosa galleta de vainilla bañada en chocolate.",
-    price: 0.80,
-    image: "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
-    category: "Galletas"
+    price: 0.8,
+    image:
+      "https://lh3.googleusercontent.com/9fSgIgFtbbo1RneC_KiUF91u5JXs48sMb2d6WkBHqJHj_871l0RbBBzdbXsDQ09lWlcF1fGCpqKLNAZrkN7udDW4vl8x5IDfSg",
+    category: "Galletas",
   },
   {
     id: "17",
     name: "Cheese Tris",
     description: "Snacks de maíz con sabor a queso, adictivos y crujientes.",
-    price: 1.00,
-    image: "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-cheese-tris-min.jpg?v=1690487600",
-    category: "Snacks"
+    price: 1.0,
+    image:
+      "https://www.tiendashoppi.com/cdn/shop/files/tienda-shoppi-cheese-tris-min.jpg?v=1690487600",
+    category: "Snacks",
   },
   {
     id: "18",
     name: "Samba Fresa",
     description: "Galleta de chocolate con sabor a fresa, deliciosas.",
-    price: 1.20,
-    image: "https://chucheriasvenezolanas.com/cdn/shop/products/samba-01_2000x_19ad237b-216f-4b75-84c5-d2db44a92b6e.jpg?v=1614921862",
-    category: "Galletas "
+    price: 1.2,
+    image:
+      "https://chucheriasvenezolanas.com/cdn/shop/products/samba-01_2000x_19ad237b-216f-4b75-84c5-d2db44a92b6e.jpg?v=1614921862",
+    category: "Galletas ",
   },
   // {
   //   id: "19",
@@ -237,18 +262,22 @@ export const sampleProducts: Product[] = [
   {
     id: "20",
     name: "Toronto",
-    description: "Bombón de chocolate perfecto para regalarselo a esa personita especial.",
-    price: 0.70,
-    image: "https://cdnx.jumpseller.com/tu-super-tm/image/15643891/resize/540/540?1647357068",
-    category: "Chocolates"
+    description:
+      "Bombón de chocolate perfecto para regalarselo a esa personita especial.",
+    price: 0.7,
+    image:
+      "https://cdnx.jumpseller.com/tu-super-tm/image/15643891/resize/540/540?1647357068",
+    category: "Chocolates",
   },
   {
     id: "21",
     name: "Chao Menta",
-    description: "Caramelos de menta refrescantes, ideales para después de comer.",
+    description:
+      "Caramelos de menta refrescantes, ideales para después de comer.",
     price: 0.04,
-    image: "https://www.iberoexpress.es/wp-content/uploads/2019/03/caramelo_menta_chao_S02100.jpg",
-    category: "Caramelos"
+    image:
+      "https://www.iberoexpress.es/wp-content/uploads/2019/03/caramelo_menta_chao_S02100.jpg",
+    category: "Caramelos",
   },
   {
     id: "22",
@@ -256,7 +285,7 @@ export const sampleProducts: Product[] = [
     description: "Caramelos con sabor a fresa, dulces y deliciosos.",
     price: 0.04,
     image: "https://assets.tuzonamarket.com/images/producto/QoHfligAP2.jpg",
-    category: "Caramelos"
+    category: "Caramelos",
   },
   {
     id: "23",
@@ -264,95 +293,109 @@ export const sampleProducts: Product[] = [
     description: "Caramelos con sabor a mora azul, exóticos y refrescantes.",
     price: 0.04,
     image: "https://assets.tuzonamarket.com/images/producto/BEBoQRa9ja.jpg",
-    category: "Caramelos"
+    category: "Caramelos",
   },
   {
     id: "24",
     name: "Caramelo Cafe",
     description: "Caramelos con sabor a café, para los amantes de este aroma.",
     price: 0.07,
-    image: "https://officenet.net.ve/51290-mercadolibre_default/caramelo-masticable-cafe-gurme-8gr.jpg",
-    category: "Caramelos"
+    image:
+      "https://officenet.net.ve/51290-mercadolibre_default/caramelo-masticable-cafe-gurme-8gr.jpg",
+    category: "Caramelos",
   },
   {
     id: "25",
     name: "Trululu Aros",
-    description: "Gomitas en forma de aros con sabores frutales. Deliciosas para compartir.",
+    description:
+      "Gomitas en forma de aros con sabores frutales. Deliciosas para compartir.",
     price: 1.1,
-    image: "https://lh3.googleusercontent.com/o6CBGbGZLCEvsCf-tqfRIfEHZ9KXV2u1oo-gdCk11CSTDQKXAyf6wwZw28yo5UG-ZsJLredXWYbV6nnIhHmhMoZup049_ZJiqJ_Hsgh9CrCMyRK-qw",
-    category: "Gomitas"
+    image:
+      "https://lh3.googleusercontent.com/o6CBGbGZLCEvsCf-tqfRIfEHZ9KXV2u1oo-gdCk11CSTDQKXAyf6wwZw28yo5UG-ZsJLredXWYbV6nnIhHmhMoZup049_ZJiqJ_Hsgh9CrCMyRK-qw",
+    category: "Gomitas",
   },
   {
     id: "26",
     name: "Trululu Gusanos",
     description: "Gomitas en forma de gusanos con divertidos colores.",
     price: 1.1,
-    image: "https://lh3.googleusercontent.com/1JxWSFUb7eqe5flwDd4xmuKyuSyL8PET38dYok9qNiBX2GmcxwAAmKeRrdJsiuDUzoPCO0PDmtVGE-03boXMe3eJd6nnRaYL5mWtAR2aUZMaaIY",
-    category: "Gomitas"
+    image:
+      "https://lh3.googleusercontent.com/1JxWSFUb7eqe5flwDd4xmuKyuSyL8PET38dYok9qNiBX2GmcxwAAmKeRrdJsiuDUzoPCO0PDmtVGE-03boXMe3eJd6nnRaYL5mWtAR2aUZMaaIY",
+    category: "Gomitas",
   },
   {
     id: "27",
     name: "Trululu Sabores",
     description: "Mezcla de gomitas Trululu con variedad de sabores.",
     price: 1.1,
-    image: "https://madisoncenter.com/cdn/shop/files/trululusabores.jpg?v=1710943224",
-    category: "Gomitas"
+    image:
+      "https://madisoncenter.com/cdn/shop/files/trululusabores.jpg?v=1710943224",
+    category: "Gomitas",
   },
   {
     id: "28",
     name: "Polvorones",
     description: "Galletas tradicionales de polvo, suaves y mantecosas.",
-    price: 1.00,
-    image: "https://egb2c.cl94ncbhsi-excelsior1-p1-public.model-t.cc.commerce.ondemand.com//medias/515Wx515H-1200-baseFormat-1200-baseFormat-40001377-1-40001377?context=bWFzdGVyfGltYWdlc3wyODQyNTF8aW1hZ2UvanBlZ3xhREJpTDJoaU5pODRPREEwTVRjd01qQXpNVFkyTHpVeE5WZDROVEUxU0Y4eE1qQXdYMkpoYzJWR2IzSnRZWFJmTVRJd01GOWlZWE5sUm05eWJXRjBYelF3TURBeE16YzNMVEZmTkRBd01ERXpOemN8ZGJlMjAyYWE0NGRiMWUzMWI4MDJlMWE4MWI2ZWY3N2U1NTliYjYyODQ1ZTUzNmEzMjUyYTI0YmQ0NTc3YTNjZg",
-    category: "Galletas"
+    price: 1.0,
+    image:
+      "https://egb2c.cl94ncbhsi-excelsior1-p1-public.model-t.cc.commerce.ondemand.com//medias/515Wx515H-1200-baseFormat-1200-baseFormat-40001377-1-40001377?context=bWFzdGVyfGltYWdlc3wyODQyNTF8aW1hZ2UvanBlZ3xhREJpTDJoaU5pODRPREEwTVRjd01qQXpNVFkyTHpVeE5WZDROVEUxU0Y4eE1qQXdYMkpoYzJWR2IzSnRZWFJmTVRJd01GOWlZWE5sUm05eWJXRjBYelF3TURBeE16YzNMVEZmTkRBd01ERXpOemN8ZGJlMjAyYWE0NGRiMWUzMWI4MDJlMWE4MWI2ZWY3N2U1NTliYjYyODQ1ZTUzNmEzMjUyYTI0YmQ0NTc3YTNjZg",
+    category: "Galletas",
   },
   {
     id: "29",
     name: "Cocosette",
-    description: "Galletas rellenas de coco, dulces y deliciosas. Perfectas para recordar la playa.",
-    price: 1.20,
-    image: "https://lh3.googleusercontent.com/qNHHFBE2-nY4oVMZ0w0HVpCxrN-c-GUcvEkiwZhemUwBtWs9Hp_QI0NqQipePzwPqUoPU41RqoG8nii4-fCHlr64SFVPscfzgDzFu2sAbS5Jq6H-",
-    category: "Galletas"
+    description:
+      "Galletas rellenas de coco, dulces y deliciosas. Perfectas para recordar la playa.",
+    price: 1.2,
+    image:
+      "https://lh3.googleusercontent.com/qNHHFBE2-nY4oVMZ0w0HVpCxrN-c-GUcvEkiwZhemUwBtWs9Hp_QI0NqQipePzwPqUoPU41RqoG8nii4-fCHlr64SFVPscfzgDzFu2sAbS5Jq6H-",
+    category: "Galletas",
   },
   {
     id: "30",
     name: "Susy",
-    description: "Galletas rellenas de crema con sabor a vainilla.Un clásico que nunca muere.",
-    price: 1.20,
-    image: "https://barakibodegon.net/cdn/shop/files/tienda-shoppi-susy-savoy-min.jpg?v=1720644928",
-    category: "Galletas"
+    description:
+      "Galletas rellenas de crema con sabor a vainilla.Un clásico que nunca muere.",
+    price: 1.2,
+    image:
+      "https://barakibodegon.net/cdn/shop/files/tienda-shoppi-susy-savoy-min.jpg?v=1720644928",
+    category: "Galletas",
   },
   {
     id: "31",
     name: "Oreo Americana",
     description: "Las clásicas galletas con crema, ahora en tamaño individual.",
-    price: 0.60,
-    image: "https://lh3.googleusercontent.com/DhgkkvtCFsHIhE0_0mKX7qMkDI3oTTSb7Us9cVowZvdHFrC83ZI6Fj-U8-NLkqR9s5-MXv_8K2MUb9M-udOwE49c3dF_gJJ8oXIQjg_lRe1oMKAL",
-    category: "Galletas"
+    price: 0.6,
+    image:
+      "https://lh3.googleusercontent.com/DhgkkvtCFsHIhE0_0mKX7qMkDI3oTTSb7Us9cVowZvdHFrC83ZI6Fj-U8-NLkqR9s5-MXv_8K2MUb9M-udOwE49c3dF_gJJ8oXIQjg_lRe1oMKAL",
+    category: "Galletas",
   },
-    {
+  {
     id: "43",
     name: "Oreo",
     description: "Las clásicas galletas con crema, ahora en tamaño individual.",
-    price: 0.60,
-    image: "https://lh3.googleusercontent.com/NmbfDuU7bSjNnn3Y-Dpx6BtALVViyVS8WR5pUkFVqnsjwwb9I9gbLuI0W7VTHkfrpxv6yNpFs3ffI1-LMtzzaDC3Y9Uexkq0T0rRdqY5GZCk2q4b",
-    category: "Galletas"
+    price: 0.6,
+    image:
+      "https://lh3.googleusercontent.com/NmbfDuU7bSjNnn3Y-Dpx6BtALVViyVS8WR5pUkFVqnsjwwb9I9gbLuI0W7VTHkfrpxv6yNpFs3ffI1-LMtzzaDC3Y9Uexkq0T0rRdqY5GZCk2q4b",
+    category: "Galletas",
   },
   {
     id: "32",
     name: "Chips Ahoy",
     description: "Galletas con trozos de chocolate, crujientes y deliciosas.",
-    price: 0.70,
-    image: "https://lh3.googleusercontent.com/-chhqni-zzUpkhN6Ga_GgCAJsv2_dIWpYaMObmoQySFotBqOPc2o233QhGL4MJNVk2EQlpRs9pcoWzm4i2KiFWCm_sef3dN3edpH3VXsDtbK_7mM",
-    category: "Galletas"
+    price: 0.7,
+    image:
+      "https://lh3.googleusercontent.com/-chhqni-zzUpkhN6Ga_GgCAJsv2_dIWpYaMObmoQySFotBqOPc2o233QhGL4MJNVk2EQlpRs9pcoWzm4i2KiFWCm_sef3dN3edpH3VXsDtbK_7mM",
+    category: "Galletas",
   },
   {
     id: "33",
     name: "Tom 28g",
-    description: "Versión pequeña del clásico tom, ideal para un bocado rápido.",
+    description:
+      "Versión pequeña del clásico tom, ideal para un bocado rápido.",
     price: 0.45,
     image: "https://assets.tuzonamarket.com/images/producto/9qVfCGH7G4.jpg",
-    category: "Snacks"
+    category: "Snacks",
   },
   // {
   //   id: "34",
@@ -365,19 +408,23 @@ export const sampleProducts: Product[] = [
   {
     id: "35",
     name: "Flips Chocolate",
-    description: "Snacks inflados con cobertura de chocolate, crujientes y dulces.",
-    price: 0.80,
-    image: "https://lh3.googleusercontent.com/Jb0Z2jhKuLImEVpY_u4LFydrgR8BEC5EgwHyJ07MQ8NgFFy8dQBu7DuX3mPDGfJtZwrH-H3-r44wYaqkr0qhteObyn9A5_gS3b2xzuyBWEzNPjCYWg",
-    category: "Cereal"
+    description:
+      "Snacks inflados con cobertura de chocolate, crujientes y dulces.",
+    price: 0.8,
+    image:
+      "https://lh3.googleusercontent.com/Jb0Z2jhKuLImEVpY_u4LFydrgR8BEC5EgwHyJ07MQ8NgFFy8dQBu7DuX3mPDGfJtZwrH-H3-r44wYaqkr0qhteObyn9A5_gS3b2xzuyBWEzNPjCYWg",
+    category: "Cereal",
   },
   {
     id: "36",
     name: "Flips Dulce Leche",
-    description: "Snacks inflados con cobertura de dulce de leche, irresistibles.",
-    price: 0.80,
-    image: "https://lh3.googleusercontent.com/n6hVYmKBzoKTqqdwjZ2PmRUYDYEyn23NVCAYxILKJtHbvvyJ6CC6cAGHMjvdlq6IOMV8rqtl2BCEXikqDfriR7I482XIVkLtyV32dtFa8advpIhmvg",
-    category: "Cereal"
-  }
+    description:
+      "Snacks inflados con cobertura de dulce de leche, irresistibles.",
+    price: 0.8,
+    image:
+      "https://lh3.googleusercontent.com/n6hVYmKBzoKTqqdwjZ2PmRUYDYEyn23NVCAYxILKJtHbvvyJ6CC6cAGHMjvdlq6IOMV8rqtl2BCEXikqDfriR7I482XIVkLtyV32dtFa8advpIhmvg",
+    category: "Cereal",
+  },
   // {
   //   id: "0",
   //   name: "Vitafer",
