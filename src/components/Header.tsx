@@ -51,7 +51,7 @@ export const Header = ({
             </a>
           </Button>
 
-          <Button
+          {/* <Button
             variant="outline"
             size="sm"
             onClick={onBankInfoClick}
@@ -59,7 +59,7 @@ export const Header = ({
           >
             <CreditCard className="h-4 w-4" />
             <span>Datos Bancarios</span>
-          </Button>
+          </Button> */}
 
           <Button
             variant="outline"
