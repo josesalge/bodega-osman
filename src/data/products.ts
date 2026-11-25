@@ -66,6 +66,15 @@ export const sampleProducts: Product[] = [
   //   category: "Saludables"
   // }
   {
+    id: "48",
+    name: "Golpe con Todo Ranchero",
+    description: "Mix de snacks crujientes y deliciosos con intesos sabores.",
+    price: 0.8,
+    image:
+      "https://tmfoodsaustin.com/wp-content/uploads/2025/03/golpe-con-todo-yupi-tm.jpg",
+    category: "Snacks",
+  },
+  {
     id: "47",
     name: "Iselitas Yuca con Sal 28g",
     description: "Chips de Yuca con un toque de sal, crujientes y deliciosas.",
@@ -86,22 +95,22 @@ export const sampleProducts: Product[] = [
   },
   {
     id: "45",
-    name: "Trident de Mora Azul",
-    description: "Chicles con sabor a mora azul, refrescantes y duraderos.",
+    name: "Chicles Tridents (consultar sabores)",
+    description: "Chicles refrescantes y duraderos.",
     price: 0.8,
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCw0sKGas6kgmQaTaI8Ce6s0ohnfH0RcY5kWkUEgatx6TP-Qzp3cVZeuk&s=10",
+      "https://tiendaamiga.online/wp-content/uploads/2024/07/Trident-CHICLES-ADAMS.png",
     category: "Chicles",
   },
-  {
-    id: "44",
-    name: "Ping Pong",
-    description: "Delicioso snack de maní cubierto sabor a chocolate.",
-    price: 1.5,
-    image:
-      "https://lh3.googleusercontent.com/v7eiTtvbBeNxs_E-BIqVpl69MYlkPev6C5szTSUeCqBBcYfYDNKH31zdt7dP_IgKFovRZ8oSJHRJ5eilJh9rDGwL3N_SmIsRlf-Mwr1xdF8SPDa_",
-    category: "Chocolates",
-  },
+  // {
+  //   id: "44",
+  //   name: "Ping Pong",
+  //   description: "Delicioso snack de maní cubierto sabor a chocolate.",
+  //   price: 1.5,
+  //   image:
+  //     "https://lh3.googleusercontent.com/v7eiTtvbBeNxs_E-BIqVpl69MYlkPev6C5szTSUeCqBBcYfYDNKH31zdt7dP_IgKFovRZ8oSJHRJ5eilJh9rDGwL3N_SmIsRlf-Mwr1xdF8SPDa_",
+  //   category: "Chocolates",
+  // },
   {
     id: "42",
     name: "Ruffles de Queso 45g",
@@ -112,16 +121,16 @@ export const sampleProducts: Product[] = [
       "https://lh3.googleusercontent.com/YMwiVjQKjuMwpTWZvHxhMmym-HHP_25_mzAPA7bRTzZYw07zrrwtTXxaGbTXSeCTn9Gkm3xzlCFPWFDclhZFBmOEXnafyz1ygG04lTnbPmLmO6o",
     category: "Snacks",
   },
-  {
-    id: "41",
-    name: "Ruffles Original 45g",
-    description:
-      "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
-    price: 1.5,
-    image:
-      "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
-    category: "Snacks",
-  },
+  // {
+  //   id: "41",
+  //   name: "Ruffles Original 45g",
+  //   description:
+  //     "Clásica papa ondulada con el justo punto de sal, perfecta para acompañar tus comidas favoritas.",
+  //   price: 1.5,
+  //   image:
+  //     "https://locatelvenezuela.vtexassets.com/arquivos/ids/170036/2090798.jpg?v=637877247052330000",
+  //   category: "Snacks",
+  // },
   {
     id: "40",
     name: "Chocochitas",
